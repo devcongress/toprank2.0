@@ -20,7 +20,7 @@ module.exports = {
         cardTeal:     "#2CADF5",
         cardBeige:    "#FAEFD3",
         cardWebTeal:  "#29B3D2",
-        frameWebTeal: "#00A3FF",
+        webTeal: "#00A3FF",
         cardGreen:    "#B5FE93",
         textGreen:    "#14532d",
         cardPurple:   "#7000FF",
