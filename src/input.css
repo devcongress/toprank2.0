@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    /* @font-face {
+        font-family: "OxygenBold";
+        src: url("/assets/Oxygen/Oxygen-Bold.ttf") format("ttf");
+    }
+    @font-face {
+        font-family: "OxygenLight";
+        src: url("/assets/Oxygen/Oxygen-Light.ttf") format("ttf");
+    }
+    @font-face {
+        font-family: "OxygenRegular";
+        src: url("/assets/Oxygen/Oxygen-Regular.ttf") format("ttf");
+    } */
+
+    body {
+        font-family: 'Oxygen', serif;
+    }
+}

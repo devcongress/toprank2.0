@@ -25,7 +25,7 @@ module.exports = {
         textGreen:    "#14532d",
         cardPurple:   "#7000FF",
         typeGreen:    "#A6D229",
-      }
+      },
     },
   },
   plugins: [],
