@@ -1,5 +1,5 @@
 {
-  "name": "toprank_website", 
+  "name": "toprank_website",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -8,6 +8,6 @@
     "watch": "tailwindcss -i ./src/input.css -o ./src/main.css --watch"
   },
   "devDependencies": {
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.14"
   }
 }
