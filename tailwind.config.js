@@ -10,7 +10,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        heroTeal:           "#00B2FF",
+        blue:               "#0033FD",
         borderGrey:         "#C1C1C1",
         ctaGrey:            "#403E3E",
         textGrey:           "#383838",
@@ -28,25 +28,6 @@ module.exports = {
         devCongressPink:    "#EC008B",
       },
     },
-    animation: {
-      blob: "blob 7s infinite",
-    },
-    keyframes: {
-      blob: {
-        "0%": {
-          transform: "translate(0px, 0px) scale(1)"
-        },
-        "33%": {
-          transform: "translate(30px, -50px) scale(1.1)"
-        },
-        "66%": {
-          transform: "translate(-20px, 20px) scale(0.9)"
-        },
-        "100%": {
-          transform: "translate(0px, 0px) scale(1)"
-        },
-      }
-    }
   },
   plugins: [],
 }
